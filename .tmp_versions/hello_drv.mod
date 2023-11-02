@@ -1,0 +1,3 @@
+/home/zhuhao/Desktop/Linux-4.9.88/Linux-4.9.88/05_drivers/my_drivers/02_hello_drv_transfer_data/hello_drv.ko
+/home/zhuhao/Desktop/Linux-4.9.88/Linux-4.9.88/05_drivers/my_drivers/02_hello_drv_transfer_data/hello_drv.o
+
